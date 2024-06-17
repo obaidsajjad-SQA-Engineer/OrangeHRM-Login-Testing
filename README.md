@@ -112,16 +112,19 @@ This project was created to test the login functionalities of the Orange HRM sys
 ## Screenshots
 
 1. **Screenshot 1: Excel Screenshot**
-    ![Screenshot 1](#)
+    ![screenshots/1.png](#)
 
 2. **Screenshot 2: Invalid Username Error**
-    ![Screenshot 2](#)
+    ![screenshots/2.png](#)
 
 3. **Screenshot 3: Password Masking**
-    ![Screenshot 3](#)
+    ![screenshots/3.png](#)
 
 4. **Screenshot 4: Login Page UI**
-    ![Screenshot 4](#)
+    ![screenshots/5.png](#)
+
+5. **Screenshot 4: Login Page UI**
+    ![screenshots/5.png](#)
 
 ## Conclusion
 
